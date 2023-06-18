@@ -1,0 +1,5 @@
+name: Kurelib
+version: '${project.version}'
+main: com.hrkure.kurelib.Kurelib
+authors: [ HrKure ]
+description: Library used by some plugins to reduce boilerplate.
